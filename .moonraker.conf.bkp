@@ -52,6 +52,10 @@ origin = https://github.com/Guilouz/Creality-Helper-Script.git
 primary_branch = main
 managed_services = klipper
 
+[spoolman]
+server = http://nas.lan:8060/spoolman
+sync_rate = 5
+
 [filaman]
 server = http://192.168.178.10:8060
 api_key = uak.1.Od6iIk1G9s67m-e6NJieVyYOmaV3zN5AS6kf0NB7YkY
